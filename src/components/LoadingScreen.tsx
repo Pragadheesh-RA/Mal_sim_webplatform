@@ -171,9 +171,7 @@ const LoadingScreen: React.FC<LoadingScreenProps> = ({ onLoadingComplete }) => {
               <p>© MAY 2025 Mal-Sim • Developed by TEAM APP</p>
                <p className="text-gray-400 text-xs">
                 Developers -- <br/>
-                Arun J <br />
-                Pragadheesh RA <br />
-                PranusshRaj MG</p>
+                Arun J Pragadheesh RA PranusshRaj MG</p>
             </div>
           </div>
         </div>
