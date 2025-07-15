@@ -168,9 +168,7 @@ const LoadingScreen: React.FC<LoadingScreenProps> = ({ onLoadingComplete }) => {
 
             {/* Copyright */}
             <div className="text-xs text-gray-500 border-t border-gray-600/30 pt-3">
-              <p>© MAY 2025 Mal-Sim • Developed by TEAM APP <p className="text-gray-400 text-xs">
-                Developers -- <br/>
-                Arun J Pragadheesh RA PranusshRaj MG</p></p>
+              <p>© MAY 2025 Mal-Sim • Developed by TEAM APP---Arun J Pragadheesh RA PranusshRaj MG</p>
                
             </div>
           </div>
